@@ -1,6 +1,6 @@
 package com.phuckim.singleton;
 
-public class ClientTest {
+public class Main {
 
     public static void main(String[] args) {
 
